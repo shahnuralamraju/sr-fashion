@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sr-fashion/static/css/main.e7bbbeaa.chunk.css",
+    "main.js": "/sr-fashion/static/js/main.2fbd6a6d.chunk.js",
+    "main.js.map": "/sr-fashion/static/js/main.2fbd6a6d.chunk.js.map",
+    "runtime-main.js": "/sr-fashion/static/js/runtime-main.a421d8e0.js",
+    "runtime-main.js.map": "/sr-fashion/static/js/runtime-main.a421d8e0.js.map",
+    "static/js/2.e980c3eb.chunk.js": "/sr-fashion/static/js/2.e980c3eb.chunk.js",
+    "static/js/2.e980c3eb.chunk.js.map": "/sr-fashion/static/js/2.e980c3eb.chunk.js.map",
+    "static/js/3.2538d68b.chunk.js": "/sr-fashion/static/js/3.2538d68b.chunk.js",
+    "static/js/3.2538d68b.chunk.js.map": "/sr-fashion/static/js/3.2538d68b.chunk.js.map",
+    "index.html": "/sr-fashion/index.html",
+    "static/css/main.e7bbbeaa.chunk.css.map": "/sr-fashion/static/css/main.e7bbbeaa.chunk.css.map",
+    "static/js/2.e980c3eb.chunk.js.LICENSE.txt": "/sr-fashion/static/js/2.e980c3eb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a421d8e0.js",
+    "static/js/2.e980c3eb.chunk.js",
+    "static/css/main.e7bbbeaa.chunk.css",
+    "static/js/main.2fbd6a6d.chunk.js"
+  ]
+}
