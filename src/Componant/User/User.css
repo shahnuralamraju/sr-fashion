@@ -1,0 +1,18 @@
+.user-container{
+    display: flex; 
+    justify-content: space-between;
+}
+.div1{
+    width: 60%;
+    /* background-color: rgb(61, 47, 255); */
+}
+.div2{
+    width: 40%;
+    /* margin-top: 20px; */
+    padding: 15px;
+    text-align: center;
+}
+.div2 h1{
+    color:rebeccapurple;
+    margin-top: 50px;
+}

@@ -1,0 +1,43 @@
+.image-div{
+    width: 150px;
+    height: 150px;
+    background-color: rgb(126, 122, 122);
+    border-radius: 50%;
+    transition: 0.5s all;
+}
+.image-div img{
+    width: 100%;
+    height: 100%;
+    border-radius:50% ;
+    
+}
+.image-div:hover{
+    transform: scale(0.9);
+}
+button{
+    width: 150px;
+    padding: 8px;
+    background-color: orange;
+    color: white;
+    font-size: 16px;
+    border: none;
+    border-radius: 10px;
+    
+}
+span{
+    margin-right: 5px;
+}
+.player-container{
+    width: 75%;
+    margin: 30px;
+    padding: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 10px;
+    box-shadow: 8px 7px 16px gray;
+    /* background-color: red; */
+}
+.info-div{
+    width: 70%;
+}

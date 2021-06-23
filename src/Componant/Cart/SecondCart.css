@@ -1,0 +1,33 @@
+.second-cart{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    margin-top: 35px;
+    /* background-color: rgb(249, 247, 250); */
+    background-color: rgb(153, 232, 235);
+    border-radius: 10px;
+    box-shadow: 5px 4px 8px gray;
+}
+.btn{
+    background-color: rgb(245, 9, 87);
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    cursor: pointer;
+}
+.second-cart img{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-right: 5px;
+}
+.player-info{
+    display: flex;
+    align-items: center;
+    border-radius: 10px;
+}
